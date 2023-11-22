@@ -1,0 +1,21 @@
+/* HomePage.css */
+
+.homepage-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .homepage-title {
+    font-size: 4em;
+    color: rgb(235, 225, 225);
+    margin-bottom: 10px;
+  }
+  
+  .homepage-text {
+    font-size: 2em;
+    color: #340808;
+    line-height: 1.4;
+    margin-bottom: 20px;
+  }
+  

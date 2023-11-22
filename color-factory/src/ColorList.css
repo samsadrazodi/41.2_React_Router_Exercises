@@ -1,0 +1,55 @@
+.ColorList {
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: xx-large;
+  }
+  
+  .ColorList-header {
+    width: 100vw;
+    background-color: #222;
+    height: fit-content;
+    padding: 20px;
+    color: white;
+    border: 2px solid blue;
+    
+  }
+  
+  .ColorList button{
+    margin-top:2rem;
+    font-size: large;
+    margin-bottom: 2rem;
+    width: 6rem;
+    height: 3rem;
+    background-color: black;
+  }
+  .ColorList-header a {
+    color: white;
+  }
+  
+  .ColorList-title {
+    font-size: 1.5em;
+  }
+  
+  .ColorList-intro {
+    font-size: large;
+  }
+  
+  ul {
+    list-style:none;
+    padding: 0;
+    
+  }
+  li{
+    text-align: left;
+    background-color: beige;
+    
+  }
+  li:hover{
+    text-align: left;
+    background-color: rgb(245, 245, 171);
+    
+  }
